@@ -1,0 +1,13 @@
+baseURL = "https://amin0g.github.io/"
+languageCode = 'en-us'
+title = "Amin Gholami's Personal Website"
+theme = "m10c"
+name = "Amin Gholami"
+
+[params]
+  author = "Amin Gholami"
+  email = "a.gholami.ee@gmail.com"
+  linkedin = "https://www.linkedin.com/in/amin-gholami-4862bb79"
+  education = "Ph.D. in Operations Research, Minor in Mathematics, Georgia Institute of Technology (Georgia Tech)"
+  job_position = "Senior Data Scientist – Walmart Global Tech, Sunnyvale, CA, USA"
+
